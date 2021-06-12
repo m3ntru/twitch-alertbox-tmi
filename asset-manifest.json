@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/twitch-alertbox-tmi/static/css/main.f4b476f7.chunk.css",
-    "main.js": "/twitch-alertbox-tmi/static/js/main.9af69cdf.chunk.js",
-    "main.js.map": "/twitch-alertbox-tmi/static/js/main.9af69cdf.chunk.js.map",
-    "runtime-main.js": "/twitch-alertbox-tmi/static/js/runtime-main.666ab5a2.js",
-    "runtime-main.js.map": "/twitch-alertbox-tmi/static/js/runtime-main.666ab5a2.js.map",
-    "static/js/2.cc9a2b4d.chunk.js": "/twitch-alertbox-tmi/static/js/2.cc9a2b4d.chunk.js",
-    "static/js/2.cc9a2b4d.chunk.js.map": "/twitch-alertbox-tmi/static/js/2.cc9a2b4d.chunk.js.map",
-    "static/js/3.b49bfaa1.chunk.js": "/twitch-alertbox-tmi/static/js/3.b49bfaa1.chunk.js",
-    "static/js/3.b49bfaa1.chunk.js.map": "/twitch-alertbox-tmi/static/js/3.b49bfaa1.chunk.js.map",
-    "index.html": "/twitch-alertbox-tmi/index.html",
-    "static/css/main.f4b476f7.chunk.css.map": "/twitch-alertbox-tmi/static/css/main.f4b476f7.chunk.css.map",
-    "static/js/2.cc9a2b4d.chunk.js.LICENSE.txt": "/twitch-alertbox-tmi/static/js/2.cc9a2b4d.chunk.js.LICENSE.txt",
-    "static/media/bit (40).gif": "/twitch-alertbox-tmi/static/media/bit (40).02b3a60e.gif",
-    "static/media/bit (41).gif": "/twitch-alertbox-tmi/static/media/bit (41).36b80552.gif",
-    "static/media/bit (6).gif": "/twitch-alertbox-tmi/static/media/bit (6).cf55d0a3.gif",
-    "static/media/cheer.089e4f3c.mp3": "/twitch-alertbox-tmi/static/media/cheer.089e4f3c.mp3",
-    "static/media/sub.14661d03.mp3": "/twitch-alertbox-tmi/static/media/sub.14661d03.mp3",
-    "static/media/sub.7c415f46.gif": "/twitch-alertbox-tmi/static/media/sub.7c415f46.gif"
+    "main.css": "/static/css/main.f4b476f7.chunk.css",
+    "main.js": "/static/js/main.eacabe7d.chunk.js",
+    "main.js.map": "/static/js/main.eacabe7d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7520e3fe.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7520e3fe.js.map",
+    "static/js/2.a75c22a5.chunk.js": "/static/js/2.a75c22a5.chunk.js",
+    "static/js/2.a75c22a5.chunk.js.map": "/static/js/2.a75c22a5.chunk.js.map",
+    "static/js/3.b49bfaa1.chunk.js": "/static/js/3.b49bfaa1.chunk.js",
+    "static/js/3.b49bfaa1.chunk.js.map": "/static/js/3.b49bfaa1.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.f4b476f7.chunk.css.map": "/static/css/main.f4b476f7.chunk.css.map",
+    "static/js/2.a75c22a5.chunk.js.LICENSE.txt": "/static/js/2.a75c22a5.chunk.js.LICENSE.txt",
+    "static/media/bit (40).gif": "/static/media/bit (40).02b3a60e.gif",
+    "static/media/bit (41).gif": "/static/media/bit (41).36b80552.gif",
+    "static/media/bit (6).gif": "/static/media/bit (6).cf55d0a3.gif",
+    "static/media/cheer.089e4f3c.mp3": "/static/media/cheer.089e4f3c.mp3",
+    "static/media/sub.14661d03.mp3": "/static/media/sub.14661d03.mp3",
+    "static/media/sub.7c415f46.gif": "/static/media/sub.7c415f46.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.666ab5a2.js",
-    "static/js/2.cc9a2b4d.chunk.js",
+    "static/js/runtime-main.7520e3fe.js",
+    "static/js/2.a75c22a5.chunk.js",
     "static/css/main.f4b476f7.chunk.css",
-    "static/js/main.9af69cdf.chunk.js"
+    "static/js/main.eacabe7d.chunk.js"
   ]
 }
