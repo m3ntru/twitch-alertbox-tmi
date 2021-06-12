@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/twitch-alertbox-tmi/static/css/main.f4b476f7.chunk.css",
-    "main.js": "/twitch-alertbox-tmi/static/js/main.93882337.chunk.js",
-    "main.js.map": "/twitch-alertbox-tmi/static/js/main.93882337.chunk.js.map",
+    "main.js": "/twitch-alertbox-tmi/static/js/main.9af69cdf.chunk.js",
+    "main.js.map": "/twitch-alertbox-tmi/static/js/main.9af69cdf.chunk.js.map",
     "runtime-main.js": "/twitch-alertbox-tmi/static/js/runtime-main.666ab5a2.js",
     "runtime-main.js.map": "/twitch-alertbox-tmi/static/js/runtime-main.666ab5a2.js.map",
     "static/js/2.cc9a2b4d.chunk.js": "/twitch-alertbox-tmi/static/js/2.cc9a2b4d.chunk.js",
@@ -23,6 +23,6 @@
     "static/js/runtime-main.666ab5a2.js",
     "static/js/2.cc9a2b4d.chunk.js",
     "static/css/main.f4b476f7.chunk.css",
-    "static/js/main.93882337.chunk.js"
+    "static/js/main.9af69cdf.chunk.js"
   ]
 }
