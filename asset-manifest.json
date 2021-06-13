@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/twitch-alertbox-tmi/static/css/main.f4b476f7.chunk.css",
-    "main.js": "/twitch-alertbox-tmi/static/js/main.cc909ea9.chunk.js",
-    "main.js.map": "/twitch-alertbox-tmi/static/js/main.cc909ea9.chunk.js.map",
-    "runtime-main.js": "/twitch-alertbox-tmi/static/js/runtime-main.666ab5a2.js",
-    "runtime-main.js.map": "/twitch-alertbox-tmi/static/js/runtime-main.666ab5a2.js.map",
-    "static/js/2.cc9a2b4d.chunk.js": "/twitch-alertbox-tmi/static/js/2.cc9a2b4d.chunk.js",
-    "static/js/2.cc9a2b4d.chunk.js.map": "/twitch-alertbox-tmi/static/js/2.cc9a2b4d.chunk.js.map",
-    "static/js/3.b49bfaa1.chunk.js": "/twitch-alertbox-tmi/static/js/3.b49bfaa1.chunk.js",
-    "static/js/3.b49bfaa1.chunk.js.map": "/twitch-alertbox-tmi/static/js/3.b49bfaa1.chunk.js.map",
+    "main.css": "/twitch-alertbox-tmi/static/css/main.64dcab52.chunk.css",
+    "main.js": "/twitch-alertbox-tmi/static/js/main.c0068a7d.chunk.js",
+    "main.js.map": "/twitch-alertbox-tmi/static/js/main.c0068a7d.chunk.js.map",
+    "runtime-main.js": "/twitch-alertbox-tmi/static/js/runtime-main.2dc476a8.js",
+    "runtime-main.js.map": "/twitch-alertbox-tmi/static/js/runtime-main.2dc476a8.js.map",
+    "static/js/2.4c6d5934.chunk.js": "/twitch-alertbox-tmi/static/js/2.4c6d5934.chunk.js",
+    "static/js/2.4c6d5934.chunk.js.map": "/twitch-alertbox-tmi/static/js/2.4c6d5934.chunk.js.map",
+    "static/js/3.d710231b.chunk.js": "/twitch-alertbox-tmi/static/js/3.d710231b.chunk.js",
+    "static/js/3.d710231b.chunk.js.map": "/twitch-alertbox-tmi/static/js/3.d710231b.chunk.js.map",
     "index.html": "/twitch-alertbox-tmi/index.html",
-    "static/css/main.f4b476f7.chunk.css.map": "/twitch-alertbox-tmi/static/css/main.f4b476f7.chunk.css.map",
-    "static/js/2.cc9a2b4d.chunk.js.LICENSE.txt": "/twitch-alertbox-tmi/static/js/2.cc9a2b4d.chunk.js.LICENSE.txt",
+    "static/css/main.64dcab52.chunk.css.map": "/twitch-alertbox-tmi/static/css/main.64dcab52.chunk.css.map",
+    "static/js/2.4c6d5934.chunk.js.LICENSE.txt": "/twitch-alertbox-tmi/static/js/2.4c6d5934.chunk.js.LICENSE.txt",
     "static/media/bit (40).gif": "/twitch-alertbox-tmi/static/media/bit (40).02b3a60e.gif",
-    "static/media/bit (41).gif": "/twitch-alertbox-tmi/static/media/bit (41).36b80552.gif",
+    "static/media/bit (41).gif": "/twitch-alertbox-tmi/static/media/bit (41).2640bd82.gif",
     "static/media/bit (6).gif": "/twitch-alertbox-tmi/static/media/bit (6).cf55d0a3.gif",
     "static/media/cheer.089e4f3c.mp3": "/twitch-alertbox-tmi/static/media/cheer.089e4f3c.mp3",
     "static/media/sub.14661d03.mp3": "/twitch-alertbox-tmi/static/media/sub.14661d03.mp3",
     "static/media/sub.7c415f46.gif": "/twitch-alertbox-tmi/static/media/sub.7c415f46.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.666ab5a2.js",
-    "static/js/2.cc9a2b4d.chunk.js",
-    "static/css/main.f4b476f7.chunk.css",
-    "static/js/main.cc909ea9.chunk.js"
+    "static/js/runtime-main.2dc476a8.js",
+    "static/js/2.4c6d5934.chunk.js",
+    "static/css/main.64dcab52.chunk.css",
+    "static/js/main.c0068a7d.chunk.js"
   ]
 }
