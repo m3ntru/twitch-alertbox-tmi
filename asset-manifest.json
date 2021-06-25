@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/twitch-alertbox-tmi/static/css/main.64dcab52.chunk.css",
-    "main.js": "/twitch-alertbox-tmi/static/js/main.f61ca138.chunk.js",
-    "main.js.map": "/twitch-alertbox-tmi/static/js/main.f61ca138.chunk.js.map",
-    "runtime-main.js": "/twitch-alertbox-tmi/static/js/runtime-main.986fdeb7.js",
-    "runtime-main.js.map": "/twitch-alertbox-tmi/static/js/runtime-main.986fdeb7.js.map",
-    "static/js/2.8dd9f9e4.chunk.js": "/twitch-alertbox-tmi/static/js/2.8dd9f9e4.chunk.js",
-    "static/js/2.8dd9f9e4.chunk.js.map": "/twitch-alertbox-tmi/static/js/2.8dd9f9e4.chunk.js.map",
-    "static/js/3.ee6ff9a8.chunk.js": "/twitch-alertbox-tmi/static/js/3.ee6ff9a8.chunk.js",
-    "static/js/3.ee6ff9a8.chunk.js.map": "/twitch-alertbox-tmi/static/js/3.ee6ff9a8.chunk.js.map",
+    "main.js": "/twitch-alertbox-tmi/static/js/main.0b0898c2.chunk.js",
+    "main.js.map": "/twitch-alertbox-tmi/static/js/main.0b0898c2.chunk.js.map",
+    "runtime-main.js": "/twitch-alertbox-tmi/static/js/runtime-main.9e9271a9.js",
+    "runtime-main.js.map": "/twitch-alertbox-tmi/static/js/runtime-main.9e9271a9.js.map",
+    "static/js/2.b922f7e7.chunk.js": "/twitch-alertbox-tmi/static/js/2.b922f7e7.chunk.js",
+    "static/js/2.b922f7e7.chunk.js.map": "/twitch-alertbox-tmi/static/js/2.b922f7e7.chunk.js.map",
+    "static/js/3.2bf8ace3.chunk.js": "/twitch-alertbox-tmi/static/js/3.2bf8ace3.chunk.js",
+    "static/js/3.2bf8ace3.chunk.js.map": "/twitch-alertbox-tmi/static/js/3.2bf8ace3.chunk.js.map",
     "index.html": "/twitch-alertbox-tmi/index.html",
     "static/css/main.64dcab52.chunk.css.map": "/twitch-alertbox-tmi/static/css/main.64dcab52.chunk.css.map",
-    "static/js/2.8dd9f9e4.chunk.js.LICENSE.txt": "/twitch-alertbox-tmi/static/js/2.8dd9f9e4.chunk.js.LICENSE.txt",
+    "static/js/2.b922f7e7.chunk.js.LICENSE.txt": "/twitch-alertbox-tmi/static/js/2.b922f7e7.chunk.js.LICENSE.txt",
     "static/media/basilisk.5f3de126.mp3": "/twitch-alertbox-tmi/static/media/basilisk.5f3de126.mp3",
     "static/media/bit (40).gif": "/twitch-alertbox-tmi/static/media/bit (40).2640bd82.gif",
     "static/media/bit (6).gif": "/twitch-alertbox-tmi/static/media/bit (6).cf55d0a3.gif",
@@ -24,7 +24,11 @@
     "static/media/bit (b14).gif": "/twitch-alertbox-tmi/static/media/bit (b14).c650f0d6.gif",
     "static/media/bit (b15).gif": "/twitch-alertbox-tmi/static/media/bit (b15).d7b01a2f.gif",
     "static/media/bit (b16).gif": "/twitch-alertbox-tmi/static/media/bit (b16).97cfbee3.gif",
+    "static/media/bit (b17).gif": "/twitch-alertbox-tmi/static/media/bit (b17).277e9700.gif",
+    "static/media/bit (b18).gif": "/twitch-alertbox-tmi/static/media/bit (b18).50e36d24.gif",
+    "static/media/bit (b19).gif": "/twitch-alertbox-tmi/static/media/bit (b19).cb566c0d.gif",
     "static/media/bit (b2).gif": "/twitch-alertbox-tmi/static/media/bit (b2).25a8cadf.gif",
+    "static/media/bit (b20).gif": "/twitch-alertbox-tmi/static/media/bit (b20).42dd6151.gif",
     "static/media/bit (b3).gif": "/twitch-alertbox-tmi/static/media/bit (b3).afdae758.gif",
     "static/media/bit (b4).gif": "/twitch-alertbox-tmi/static/media/bit (b4).0637d572.gif",
     "static/media/bit (b5).gif": "/twitch-alertbox-tmi/static/media/bit (b5).9ccc8ed5.gif",
@@ -34,15 +38,15 @@
     "static/media/bit (b9).gif": "/twitch-alertbox-tmi/static/media/bit (b9).74b79733.gif",
     "static/media/bit (kero).gif": "/twitch-alertbox-tmi/static/media/bit (kero).7b17d5ff.gif",
     "static/media/bit (mao).gif": "/twitch-alertbox-tmi/static/media/bit (mao).0f953895.gif",
-    "static/media/bit (s).gif": "/twitch-alertbox-tmi/static/media/bit (s).c1316ce2.gif",
+    "static/media/bit (s).gif": "/twitch-alertbox-tmi/static/media/bit (s).0fe06ba3.gif",
     "static/media/cheer.089e4f3c.mp3": "/twitch-alertbox-tmi/static/media/cheer.089e4f3c.mp3",
     "static/media/sub.14661d03.mp3": "/twitch-alertbox-tmi/static/media/sub.14661d03.mp3",
     "static/media/sub.7c415f46.gif": "/twitch-alertbox-tmi/static/media/sub.7c415f46.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.986fdeb7.js",
-    "static/js/2.8dd9f9e4.chunk.js",
+    "static/js/runtime-main.9e9271a9.js",
+    "static/js/2.b922f7e7.chunk.js",
     "static/css/main.64dcab52.chunk.css",
-    "static/js/main.f61ca138.chunk.js"
+    "static/js/main.0b0898c2.chunk.js"
   ]
 }
