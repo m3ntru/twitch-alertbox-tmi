@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/twitch-alertbox-tmi/static/css/main.64dcab52.chunk.css",
-    "main.js": "/twitch-alertbox-tmi/static/js/main.3621a02a.chunk.js",
-    "main.js.map": "/twitch-alertbox-tmi/static/js/main.3621a02a.chunk.js.map",
+    "main.js": "/twitch-alertbox-tmi/static/js/main.77d533e5.chunk.js",
+    "main.js.map": "/twitch-alertbox-tmi/static/js/main.77d533e5.chunk.js.map",
     "runtime-main.js": "/twitch-alertbox-tmi/static/js/runtime-main.9e9271a9.js",
     "runtime-main.js.map": "/twitch-alertbox-tmi/static/js/runtime-main.9e9271a9.js.map",
     "static/js/2.b922f7e7.chunk.js": "/twitch-alertbox-tmi/static/js/2.b922f7e7.chunk.js",
@@ -48,16 +48,16 @@
     "static/media/futsukushii.ef359b28.mp3": "/twitch-alertbox-tmi/static/media/futsukushii.ef359b28.mp3",
     "static/media/hanase.fabb80a0.mp3": "/twitch-alertbox-tmi/static/media/hanase.fabb80a0.mp3",
     "static/media/heavy.b4654a42.mp3": "/twitch-alertbox-tmi/static/media/heavy.b4654a42.mp3",
-    "static/media/holditc.20051e8e.wav": "/twitch-alertbox-tmi/static/media/holditc.20051e8e.wav",
-    "static/media/holdite.05b6e4d2.wav": "/twitch-alertbox-tmi/static/media/holdite.05b6e4d2.wav",
-    "static/media/holditj.0308cdbc.wav": "/twitch-alertbox-tmi/static/media/holditj.0308cdbc.wav",
+    "static/media/holditc.cc8740ca.wav": "/twitch-alertbox-tmi/static/media/holditc.cc8740ca.wav",
+    "static/media/holdite.c5fb124f.wav": "/twitch-alertbox-tmi/static/media/holdite.c5fb124f.wav",
+    "static/media/holditj.e8f00ab0.wav": "/twitch-alertbox-tmi/static/media/holditj.e8f00ab0.wav",
     "static/media/lpcountdown.1230783e.mp3": "/twitch-alertbox-tmi/static/media/lpcountdown.1230783e.mp3",
     "static/media/lpcountzero.67886520.mp3": "/twitch-alertbox-tmi/static/media/lpcountzero.67886520.mp3",
     "static/media/nanikore.a5694977.mp3": "/twitch-alertbox-tmi/static/media/nanikore.a5694977.mp3",
     "static/media/nicecard.65c0e6af.mp3": "/twitch-alertbox-tmi/static/media/nicecard.65c0e6af.mp3",
-    "static/media/objectionc.db0f3bb2.wav": "/twitch-alertbox-tmi/static/media/objectionc.db0f3bb2.wav",
-    "static/media/objectione.1d96978f.wav": "/twitch-alertbox-tmi/static/media/objectione.1d96978f.wav",
-    "static/media/objectionj.331e8179.wav": "/twitch-alertbox-tmi/static/media/objectionj.331e8179.wav",
+    "static/media/objectionc.52331e31.wav": "/twitch-alertbox-tmi/static/media/objectionc.52331e31.wav",
+    "static/media/objectione.ef0a4796.wav": "/twitch-alertbox-tmi/static/media/objectione.ef0a4796.wav",
+    "static/media/objectionj.650ca3cf.wav": "/twitch-alertbox-tmi/static/media/objectionj.650ca3cf.wav",
     "static/media/ok.bc35c071.mp3": "/twitch-alertbox-tmi/static/media/ok.bc35c071.mp3",
     "static/media/shotgun.5216d659.mp3": "/twitch-alertbox-tmi/static/media/shotgun.5216d659.mp3",
     "static/media/stone.812fcb2b.mp3": "/twitch-alertbox-tmi/static/media/stone.812fcb2b.mp3",
@@ -66,15 +66,15 @@
     "static/media/sub_t3.5b771354.mp3": "/twitch-alertbox-tmi/static/media/sub_t3.5b771354.mp3",
     "static/media/sub_t3.c9fa06ab.gif": "/twitch-alertbox-tmi/static/media/sub_t3.c9fa06ab.gif",
     "static/media/summon.a283655d.mp3": "/twitch-alertbox-tmi/static/media/summon.a283655d.mp3",
-    "static/media/takethatc.c598cab0.wav": "/twitch-alertbox-tmi/static/media/takethatc.c598cab0.wav",
-    "static/media/takethate.76d89bab.wav": "/twitch-alertbox-tmi/static/media/takethate.76d89bab.wav",
-    "static/media/takethatj.2186adda.wav": "/twitch-alertbox-tmi/static/media/takethatj.2186adda.wav",
+    "static/media/takethatc.4457c47a.wav": "/twitch-alertbox-tmi/static/media/takethatc.4457c47a.wav",
+    "static/media/takethate.6115c911.wav": "/twitch-alertbox-tmi/static/media/takethate.6115c911.wav",
+    "static/media/takethatj.9acef906.wav": "/twitch-alertbox-tmi/static/media/takethatj.9acef906.wav",
     "static/media/uwaaaa.727358b6.wav": "/twitch-alertbox-tmi/static/media/uwaaaa.727358b6.wav"
   },
   "entrypoints": [
     "static/js/runtime-main.9e9271a9.js",
     "static/js/2.b922f7e7.chunk.js",
     "static/css/main.64dcab52.chunk.css",
-    "static/js/main.3621a02a.chunk.js"
+    "static/js/main.77d533e5.chunk.js"
   ]
 }
