@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/twitch-alertbox-tmi/static/css/main.64dcab52.chunk.css",
-    "main.js": "/twitch-alertbox-tmi/static/js/main.703967d5.chunk.js",
-    "main.js.map": "/twitch-alertbox-tmi/static/js/main.703967d5.chunk.js.map",
+    "main.js": "/twitch-alertbox-tmi/static/js/main.99b3b8c6.chunk.js",
+    "main.js.map": "/twitch-alertbox-tmi/static/js/main.99b3b8c6.chunk.js.map",
     "runtime-main.js": "/twitch-alertbox-tmi/static/js/runtime-main.9e9271a9.js",
     "runtime-main.js.map": "/twitch-alertbox-tmi/static/js/runtime-main.9e9271a9.js.map",
     "static/js/2.b922f7e7.chunk.js": "/twitch-alertbox-tmi/static/js/2.b922f7e7.chunk.js",
@@ -76,12 +76,12 @@
     "static/media/takethatj.9acef906.wav": "/twitch-alertbox-tmi/static/media/takethatj.9acef906.wav",
     "static/media/uwaaaa.727358b6.wav": "/twitch-alertbox-tmi/static/media/uwaaaa.727358b6.wav",
     "static/media/zantetsusword.67e032c4.mp3": "/twitch-alertbox-tmi/static/media/zantetsusword.67e032c4.mp3",
-    "static/media/zensoku.69287b95.wav": "/twitch-alertbox-tmi/static/media/zensoku.69287b95.wav"
+    "static/media/zensoku.1366a85a.wav": "/twitch-alertbox-tmi/static/media/zensoku.1366a85a.wav"
   },
   "entrypoints": [
     "static/js/runtime-main.9e9271a9.js",
     "static/js/2.b922f7e7.chunk.js",
     "static/css/main.64dcab52.chunk.css",
-    "static/js/main.703967d5.chunk.js"
+    "static/js/main.99b3b8c6.chunk.js"
   ]
 }
