@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/twitch-alertbox-tmi/static/css/main.64dcab52.chunk.css",
-    "main.js": "/twitch-alertbox-tmi/static/js/main.e6689c13.chunk.js",
-    "main.js.map": "/twitch-alertbox-tmi/static/js/main.e6689c13.chunk.js.map",
+    "main.js": "/twitch-alertbox-tmi/static/js/main.b68a69f4.chunk.js",
+    "main.js.map": "/twitch-alertbox-tmi/static/js/main.b68a69f4.chunk.js.map",
     "runtime-main.js": "/twitch-alertbox-tmi/static/js/runtime-main.0ea9c934.js",
     "runtime-main.js.map": "/twitch-alertbox-tmi/static/js/runtime-main.0ea9c934.js.map",
     "static/js/2.02ba9a81.chunk.js": "/twitch-alertbox-tmi/static/js/2.02ba9a81.chunk.js",
@@ -66,7 +66,7 @@
     "static/media/nicecard.65c0e6af.mp3": "/twitch-alertbox-tmi/static/media/nicecard.65c0e6af.mp3",
     "static/media/nigerundayo.476ac4cb.mp3": "/twitch-alertbox-tmi/static/media/nigerundayo.476ac4cb.mp3",
     "static/media/ningenoyameruzo.c3459714.mp3": "/twitch-alertbox-tmi/static/media/ningenoyameruzo.c3459714.mp3",
-    "static/media/nonononono.065c032e.mp3": "/twitch-alertbox-tmi/static/media/nonononono.065c032e.mp3",
+    "static/media/nonononono.c137ced8.mp3": "/twitch-alertbox-tmi/static/media/nonononono.c137ced8.mp3",
     "static/media/objectionc.52331e31.wav": "/twitch-alertbox-tmi/static/media/objectionc.52331e31.wav",
     "static/media/objectione.ef0a4796.wav": "/twitch-alertbox-tmi/static/media/objectione.ef0a4796.wav",
     "static/media/objectionj.650ca3cf.wav": "/twitch-alertbox-tmi/static/media/objectionj.650ca3cf.wav",
@@ -88,18 +88,18 @@
     "static/media/tobecontinued.19c8b927.mp3": "/twitch-alertbox-tmi/static/media/tobecontinued.19c8b927.mp3",
     "static/media/uwaaaa.727358b6.wav": "/twitch-alertbox-tmi/static/media/uwaaaa.727358b6.wav",
     "static/media/verynicecaesarchan.4de3c1b7.mp3": "/twitch-alertbox-tmi/static/media/verynicecaesarchan.4de3c1b7.mp3",
-    "static/media/wryyy.ec1b82e9.mp3": "/twitch-alertbox-tmi/static/media/wryyy.ec1b82e9.mp3",
-    "static/media/yareyaredaze.5fee0b0c.mp3": "/twitch-alertbox-tmi/static/media/yareyaredaze.5fee0b0c.mp3",
-    "static/media/yesiam.de849d17.mp3": "/twitch-alertbox-tmi/static/media/yesiam.de849d17.mp3",
-    "static/media/yesyesyes.8d8fe838.mp3": "/twitch-alertbox-tmi/static/media/yesyesyes.8d8fe838.mp3",
+    "static/media/wryyy.977f50f7.mp3": "/twitch-alertbox-tmi/static/media/wryyy.977f50f7.mp3",
+    "static/media/yareyaredaze.7e6a757a.mp3": "/twitch-alertbox-tmi/static/media/yareyaredaze.7e6a757a.mp3",
+    "static/media/yesiam.c6754d40.mp3": "/twitch-alertbox-tmi/static/media/yesiam.c6754d40.mp3",
+    "static/media/yesyesyes.420920b9.mp3": "/twitch-alertbox-tmi/static/media/yesyesyes.420920b9.mp3",
     "static/media/zantetsusword.67e032c4.mp3": "/twitch-alertbox-tmi/static/media/zantetsusword.67e032c4.mp3",
-    "static/media/zawaruda.76eb1b14.mp3": "/twitch-alertbox-tmi/static/media/zawaruda.76eb1b14.mp3",
+    "static/media/zawarudo.cc96c99c.mp3": "/twitch-alertbox-tmi/static/media/zawarudo.cc96c99c.mp3",
     "static/media/zensoku.1366a85a.wav": "/twitch-alertbox-tmi/static/media/zensoku.1366a85a.wav"
   },
   "entrypoints": [
     "static/js/runtime-main.0ea9c934.js",
     "static/js/2.02ba9a81.chunk.js",
     "static/css/main.64dcab52.chunk.css",
-    "static/js/main.e6689c13.chunk.js"
+    "static/js/main.b68a69f4.chunk.js"
   ]
 }
